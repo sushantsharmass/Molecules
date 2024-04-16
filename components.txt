@@ -1,0 +1,35 @@
+Components 
+
+1. Profile Card 
+
+Props 
+1. backgroundcolor
+2. covercolor
+3. Image
+    - image
+4. Title
+    - color
+    -
+5. Description 
+   - txt color 
+6. Button 
+   - color
+   - link 
+   - label 
+   - labelcolor
+
+Props types 
+
+1. backgroundcolor.string
+2. covercolor.string
+3. image.string
+4. titlecolor.string
+5. despcolor
+6. btncolor.string
+7. linkcolor.string
+8. lable.string
+9. labelcolor.string
+
+Default Props 
+
+- 

@@ -7,7 +7,7 @@ import './header.css';
 export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (
   <header>
     <div className="storybook-header">
-      <div>
+      <div className='system'>
         <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fillRule="evenodd">
             <path
